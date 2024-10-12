@@ -15,16 +15,11 @@ I am passionate about computer linguistics, NLP, deep learning, multimodal learn
 - **Prosodic Classification**
 - **Psychoacoustics**
 
-## Projects
-- **Project 1:** Description of project 1 with [link](#)
-- **Project 2:** Description of project 2 with [link](#)
-- **Project 3:** Description of project 3 with [link](#)
-
 ## Let's Collaborate
 I’m looking to collaborate on interesting projects related to my interests. Feel free to reach out!
 
 ## Contact
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:p.alejandro.m.pacheco@gmail.com)
 - **LinkedIn:** [Your LinkedIn](#)
 
 <!---
