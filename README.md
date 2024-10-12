@@ -20,7 +20,7 @@ I’m looking to collaborate on interesting projects related to my interests. Fe
 
 ## Contact
 - **Email:** [contact](mailto:p.alejandro.m.pacheco@gmail.com)
-- **LinkedIn:** [my LinkedIn](linkedin.com/in/pedro-alejandro-martínez-pacheco-4a28b3a3)
+- **LinkedIn:** [my LinkedIn](linkedin.com/in/pedro-alejandro-martínez-pacheco-4a28b3a3/)
 
 <!---
 pmartin284/pmartin284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
