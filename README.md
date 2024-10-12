@@ -19,7 +19,7 @@ I am passionate about computer linguistics, NLP, deep learning, multimodal learn
 I’m looking to collaborate on interesting projects related to my interests. Feel free to reach out!
 
 ## Contact
-- **Email:** [your-email@example.com](mailto:p.alejandro.m.pacheco@gmail.com)
+- **Email:** [contact](mailto:p.alejandro.m.pacheco@gmail.com)
 - **LinkedIn:** [Your LinkedIn](#)
 
 <!---
